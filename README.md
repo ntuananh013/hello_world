@@ -1,2 +1,3 @@
 # hello_world
-Just a new thing
+
+I'm newbie, pls show me how to be a execellent programmer
